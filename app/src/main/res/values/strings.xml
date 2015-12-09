@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_secondary">SecondaryActivity</string>
+    <string name = "facebook_app_id">712591012094323</string>
+    <string name="fbloginText">login</string>
+    <string name="title_activity_facebook">FacebookActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
